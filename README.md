@@ -1,2 +1,3 @@
 # CloudResumeChallenge
-I under go a cloud challenge to learn and show my knowledge.
+The cloud resume challenge is a challenge by Forrest Brazeal to help people to prepare for a job in the cloud industry.
+I under go the challenge to learn AWS and show my knowledge.
